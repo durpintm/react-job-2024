@@ -6,3 +6,9 @@ Install tailwind with vite
 => npx tailwindcss init -p
 And add @tailwind base; @tailwind components; @tailwind utilities; in index.
 
+const Cards = ({ children }) => {
+  return <></>;
+};
+
+export default Cards;
+
