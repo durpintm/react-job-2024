@@ -1,0 +1,7 @@
+Create React app with vite
+=> npm create vite@latest react-job-2024
+
+Install tailwind with vite
+=> npm install -D tailwindcss postcss autoprefixer
+=> npx tailwindcss init -p
+And add @tailwind base; @tailwind components; @tailwind utilities; in index.css
