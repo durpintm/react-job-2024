@@ -19,5 +19,6 @@ module.exports = {
     ],
     "react/prop-types": "off",
     "react/jsx-key": "off",
+    "react-hooks/exhaustive-deps": "off",
   },
 };
