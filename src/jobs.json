@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "fb5b",
-      "title": "SWE",
-      "type": "Remote",
-      "location": "Toronto",
-      "description": "Duty",
-      "salary": "$150K - 175K",
-      "company": {
-        "name": "TCS",
-        "description": "Hello",
-        "contactEmail": "durpinthapa@gmail.com",
-        "contactPhone": "4376696941"
-      }
     }
   ]
 }
